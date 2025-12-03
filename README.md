@@ -90,8 +90,8 @@ jobportal frontend/jobportal/public/
 
 <table>
 <tr>
-<td><img src="./jobportal%20frontend/jobportal/public/screenshot1.png" width="350"></td>
-<td><img src="./jobportal%20frontend/jobportal/public/screenshot2.png" width="350"></td>
+<td><img src="./jobportal%20frontend/jobportal/public/Screenshot 2025-12-03 183215.png" width="350"></td>
+<td><img src="./jobportal%20frontend/jobportal/public/Screenshot 2025-12-03 183228.png" width="350"></td>
 </tr>
 </table>
 
